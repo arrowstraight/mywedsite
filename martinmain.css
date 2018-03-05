@@ -1,0 +1,81 @@
+.mart-pic {
+  width: 30%;
+  height: auto;
+  border: 2px solid rgba(0,0,240,0.9);
+  float:right;
+  margin: 0% 4% 4% 4%;
+  box-shadow: 6px 6px grey;
+}
+
+.mainheading {
+color: lightgray;text-align:center;
+text-shadow:3px 5px 10px rgba(0,0,250,1);
+}
+
+.subheading {
+color: lightgray; text-align :center;
+text-shadow:3px 5px 5px rgba(0,0,250,0.8);
+
+}
+
+.maintext {
+background:linear-gradient(blue,lightblue);
+width:63%;
+box-shadow: 6px 6px grey;
+color: lightgray;
+
+}
+footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+color: blue;
+text-align: left;
+}
+.orderlist  {
+position:relative;
+background: linear-gradient(blue,lightblue);
+box-shadow: 6px 6px grey;
+width: 50%;
+color: lightgrey;
+} 
+
+body {
+	background: linear-gradient(gray,lightgray);
+}	
+	
+.secondsub {
+
+color: white;
+}
+
+div h4 {
+
+color: white;
+}
+
+
+div h5 {
+color: white;
+}
+.certs {
+display: inline-block;
+margin: 0px;
+padding-left:9%;
+width: 30%;
+height: auto;
+}
+
+#solocerts{
+display: block;
+margin: 0px;
+padding: 0px;
+position: relative;
+top: 50px;
+height: auto;
+max-width: auto;
+overflow-y: hidden;
+overflow-x: auto;
+
+}
