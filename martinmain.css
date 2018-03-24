@@ -20,7 +20,7 @@ text-shadow:3px 5px 5px rgba(0,0,250,0.8);
 }
 
 .maintext {
-background:linear-gradient(blue,lightblue);
+background:linear-gradient(to right,darkblue,royalblue);
 width:63%;
 box-shadow: 6px 6px grey;
 color: lightgray;
@@ -39,7 +39,7 @@ text-align: left;
 }
 .orderlist {
 position:relative;
-background: linear-gradient(blue,lightblue);
+background: linear-gradient(to right,darkblue,royalblue);
 box-shadow: 6px 6px grey;
 width: 50%;
 color: lightgrey;
