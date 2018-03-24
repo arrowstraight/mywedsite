@@ -11,12 +11,13 @@
 .mainheading {
 color: lightgray;text-align:center;
 text-shadow:3px 5px 10px rgba(0,0,250,1);
+font-size: 6.0REM;
 }
 
 .subheading {
 color: lightgray; text-align :center;
 text-shadow:3px 5px 5px rgba(0,0,250,0.8);
-
+font-size: 4.0REM;
 }
 
 .maintext {
@@ -27,16 +28,9 @@ color: lightgray;
 margin-left: 30px;
 padding-left: 13px;
 border-radius: 6px;
+font-size: 2.0rem;
 }
 
-footer {
-position: fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-color: blue;
-text-align: left;
-}
 .orderlist {
 position:relative;
 background: linear-gradient(to right,darkblue,royalblue);
@@ -45,26 +39,29 @@ width: 50%;
 color: lightgrey;
 margin-left: 30px;
 border-radius: 6px;
+font-size: 1.8rem;
 } 
-/*
-body {
-	background: linear-gradient(gray,lightgray);
-}	
-*/	
-.secondsub {
 
+.secondsub {
+font-size: 2.3rem;
 color: white;
 }
 
 div h4 {
-
+font-size: 2.3rem;	
 color: white;
 }
 
+h4 {
+margin-left: 50px;
+}
 
 div h5 {
+font-size: 2.3rem;	
 color: white;
 }
+
+
 .certs {
 display: inline-block;
 margin-left: 4px;
@@ -92,11 +89,17 @@ background: url(rainingnum.jpg) no-repeat center center fixed;
 background-size: cover;
 background-color: blue;
 }
-h4{
-margin-left: 50px;
-}
 
 footer{
-color: white;
+color: darkgrey;
+text-shadow: 3px 3px 4px black;
+font-weight: bold;
+font-size: 1.6rem;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: left;
+background-color: black;
 }
 
